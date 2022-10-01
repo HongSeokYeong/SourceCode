@@ -1,2 +1,2 @@
-# UIManager_SourceCode
-## UIManager 예시 코드
+# SourceCode
+## 샘플 소스 코드
